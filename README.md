@@ -7,7 +7,7 @@ This project comprises SQL queries and detailed documentation for analyzing a ca
 - Data Dictionary md: Documentation describing the structure and contents of each table in the dataset.
 - README md: This file provides an overview of the repository and instructions for accessing and using the SQL queries.
 
-Click 👉here👈to view this files.
+Click 👉[here](https://drive.google.com/drive/folders/1JO1KyimWUjkI6t9WCxh9t8E-BDCoCzyF?usp=sharing) 👈to view this files.
 
 
 # SQL Queries
@@ -35,6 +35,5 @@ Click 👉here👈to view this files.
 The original data came from a car-sharing company and includes hourly information on customer demand rate, weather, and temperature. To protect privacy, the dataset has been anonymized and cleaned.
 
 # Author
-Elinora Ogunmola 
+[Elinora Simi Ogunmola](https://www.linkedin.com/in/elinora-ogunmola-631223240/)
 
-https://www.linkedin.com/in/elinora-ogunmola-631223240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0hGZlQhmQK%2BWW%2FgcI1Xn1w%3D%3D
