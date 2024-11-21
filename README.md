@@ -4,7 +4,15 @@ This project comprises SQL queries and detailed documentation for analyzing a ca
 # Files
 - SQL_queries.sql: Contains SQL queries used to analyze the data set and answer specific business questions.
 - Data Model ERD png Entity: Relationship Diagram (ERD) illustrating the data model and relationship between tables.
+
+![ER diagram](https://github.com/user-attachments/assets/fb91aca0-191b-4d3e-9450-15a9a0bbb0e5)
+
+  
 - Data Dictionary md: Documentation describing the structure and contents of each table in the dataset.
+
+![Table II](https://github.com/user-attachments/assets/7284cc42-3d6b-48ba-8943-d6ce843ccc43)
+
+  
 - README md: This file provides an overview of the repository and instructions for accessing and using the SQL queries.
 
 Click 👉[here](https://drive.google.com/drive/folders/1JO1KyimWUjkI6t9WCxh9t8E-BDCoCzyF?usp=sharing) 👈to view this files.
